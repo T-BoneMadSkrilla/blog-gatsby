@@ -1,0 +1,38 @@
+.FitnessHealthContainer{
+    margin: 0 auto;
+    margin-top: 50px;
+    align-items: center;
+    min-height: 50vh;
+    max-width: 50vw;
+}
+
+.FitnessHealthBlogContent{
+    min-height: 50vh;
+    max-width: 50vw;
+    border-style: solid;
+    border-width: 1px;
+    padding: 35px;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    align-content: space-around;
+    background: white;
+    border-radius: 1.5%;
+}
+
+.FitnessHealthBlogTitle{
+    font-size: 2em;
+    align-items: center;
+    text-align: center;
+}
+
+.FitnessHealthSubTitle{
+    font-size: 1.5em;
+    align-items: baseline;
+    color: rgb(122, 122, 122);
+}
+
+.FitnessHealthDate{
+    font-size: .5em;
+}

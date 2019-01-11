@@ -24,6 +24,10 @@ class Nav extends Component{
       <Link to="FoodTreats">Food + Treats</Link>
       <br></br>
       <Link to="LifeThoughts">Life + Thoughts</Link>
+      <br></br>
+      <Link to="/about">About</Link>
+      <br></br>
+      <Link to="/contact">Contact Me!</Link>
     </ul>
   </div>
 </nav>
